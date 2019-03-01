@@ -1,0 +1,338 @@
+PWD /Users/gaoyuan/Dropbox/UCL Master/Supervised Learning/CourseWork1/report
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT sl_assignment1.tex
+OUTPUT sl_assignment1.log
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/article.cls
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/tabularx.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/tabularx.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/array.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifvtex.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifvtex.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ifxetex/ifxetex.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ifxetex/ifxetex.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geometry/geometry.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite/cite.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite/cite.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/auxhook.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/auxhook.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/hyperref.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/hyperref.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/enumerate.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/datetime/datetime.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/datetime/datetime.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fmtcount.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fmtcount.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fcprefix.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fcprefix.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fcnumparser.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fcnumparser.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/datetime/datetime-defaults.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/datetime/datetime-defaults.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pythonhighlight/pythonhighlight.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pythonhighlight/pythonhighlight.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/utf8x.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/utf8x.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucs.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucs.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/uni-global.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/uni-global.def
+INPUT sl_assignment1.aux
+INPUT sl_assignment1.aux
+OUTPUT sl_assignment1.aux
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/supp-pdf.mkii
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/supp-pdf.mkii
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/grfext.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/grfext.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/gettitlestring.sty
+INPUT sl_assignment1.out
+INPUT sl_assignment1.out
+INPUT sl_assignment1.out
+INPUT sl_assignment1.out
+OUTPUT sl_assignment1.pdf
+INPUT ./sl_assignment1.out
+INPUT ./sl_assignment1.out
+OUTPUT sl_assignment1.out
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fc-english.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/fmtcount/fc-english.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucsencs.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ucs/ucsencs.def
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr17.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/omscmr.fd
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/omscmr.fd
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmti12.tfm
+INPUT 1a.png
+INPUT ./1a.png
+INPUT ./1a.png
+INPUT ./1a.png
+INPUT ./1a.png
+INPUT 2a1.png
+INPUT ./2a1.png
+INPUT ./2a1.png
+INPUT ./2a1.png
+INPUT ./2a1.png
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map
+INPUT 2a2.png
+INPUT ./2a2.png
+INPUT ./2a2.png
+INPUT ./2a2.png
+INPUT ./2a2.png
+INPUT 2b.png
+INPUT ./2b.png
+INPUT ./2b.png
+INPUT ./2b.png
+INPUT ./2b.png
+INPUT 2c.png
+INPUT ./2c.png
+INPUT ./2c.png
+INPUT ./2c.png
+INPUT ./2c.png
+INPUT 2db.png
+INPUT ./2db.png
+INPUT ./2db.png
+INPUT ./2db.png
+INPUT ./2db.png
+INPUT 2dc.png
+INPUT ./2dc.png
+INPUT ./2dc.png
+INPUT ./2dc.png
+INPUT ./2dc.png
+INPUT 3b.png
+INPUT ./3b.png
+INPUT ./3b.png
+INPUT ./3b.png
+INPUT ./3b.png
+INPUT 3c.png
+INPUT ./3c.png
+INPUT ./3c.png
+INPUT ./3c.png
+INPUT ./3c.png
+INPUT 3d1.png
+INPUT ./3d1.png
+INPUT ./3d1.png
+INPUT ./3d1.png
+INPUT ./3d1.png
+INPUT 3d2.png
+INPUT ./3d2.png
+INPUT ./3d2.png
+INPUT ./3d2.png
+INPUT ./3d2.png
+INPUT 5b1.png
+INPUT ./5b1.png
+INPUT ./5b1.png
+INPUT ./5b1.png
+INPUT ./5b1.png
+INPUT 5b2.png
+INPUT ./5b2.png
+INPUT ./5b2.png
+INPUT ./5b2.png
+INPUT ./5b2.png
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx6.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT 7b1.png
+INPUT ./7b1.png
+INPUT ./7b1.png
+INPUT ./7b1.png
+INPUT ./7b1.png
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx7.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmbx5.tfm
+INPUT 7b2.png
+INPUT ./7b2.png
+INPUT ./7b2.png
+INPUT ./7b2.png
+INPUT ./7b2.png
+INPUT 7b3.png
+INPUT ./7b3.png
+INPUT ./7b3.png
+INPUT ./7b3.png
+INPUT ./7b3.png
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT linaerRegression.py
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmtt10.tfm
+INPUT linaerRegression.py
+INPUT linaerRegression.py
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsltt10.tfm
+INPUT KernelisedRR.py
+INPUT KernelisedRR.py
+INPUT KernelisedRR.py
+INPUT CW1.py
+INPUT CW1.py
+INPUT CW1.py
+INPUT sl_assignment1.aux
+INPUT ./sl_assignment1.out
+INPUT ./sl_assignment1.out
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi6.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmib10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsltt10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsltt10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb
+INPUT /Users/gaoyuan/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msam10.pfb
